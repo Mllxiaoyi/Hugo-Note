@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/zh-cn/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/categories/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/p/test-chinese/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/zh-cn/post/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/post/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/post/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/post/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/categories/test/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/test/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/test/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/test/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/zh-cn/page/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/page/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/page/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/tags/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

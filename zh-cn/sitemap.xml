@@ -2,118 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/</loc>
+    <loc>http://localhost:1313/Hugo-Note/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mllxiaoyi.github.io/Hugo-Note/"
+                href="http://localhost:1313/Hugo-Note/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mllxiaoyi.github.io/Hugo-Note/ar/"
+                href="http://localhost:1313/Hugo-Note/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/"
+                href="http://localhost:1313/Hugo-Note/"
                 />
   </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/</loc>
+    <loc>http://localhost:1313/Hugo-Note/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mllxiaoyi.github.io/Hugo-Note/categories/"
+                href="http://localhost:1313/Hugo-Note/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mllxiaoyi.github.io/Hugo-Note/ar/categories/"
+                href="http://localhost:1313/Hugo-Note/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/"
+                href="http://localhost:1313/Hugo-Note/categories/"
                 />
   </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/p/test-chinese/</loc>
+    <loc>http://localhost:1313/Hugo-Note/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/post/</loc>
+    <loc>http://localhost:1313/Hugo-Note/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/Hugo-Note/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/Hugo-Note/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/p/markdown-syntax-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://mllxiaoyi.github.io/Hugo-Note/post/"
+                href="http://localhost:1313/Hugo-Note/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mllxiaoyi.github.io/Hugo-Note/ar/post/"
+                href="http://localhost:1313/Hugo-Note/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/post/"
+                href="http://localhost:1313/Hugo-Note/tags/"
                 />
   </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mllxiaoyi.github.io/Hugo-Note/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/test/"
-                />
+    <loc>http://localhost:1313/Hugo-Note/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/Hugo-Note/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mllxiaoyi.github.io/Hugo-Note/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/page/"
-                />
-  </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mllxiaoyi.github.io/Hugo-Note/tags/"
-                />
+    <loc>http://localhost:1313/Hugo-Note/p/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://mllxiaoyi.github.io/Hugo-Note/ar/tags/"
+                href="http://localhost:1313/Hugo-Note/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/tags/"
+                href="http://localhost:1313/Hugo-Note/p/placeholder-text/"
                 />
   </url><url>
-    <loc>https://mllxiaoyi.github.io/Hugo-Note/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mllxiaoyi.github.io/Hugo-Note/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mllxiaoyi.github.io/Hugo-Note/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
+    <loc>http://localhost:1313/Hugo-Note/tags/tag-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/categories/test-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/p/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/p/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/links/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Hugo-Note/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

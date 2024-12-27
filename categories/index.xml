@@ -1,42 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Example Site</title>
-        <link>https://mllxiaoyi.github.io/Hugo-Note/categories/</link>
-        <description>Recent content in Categories on Example Site</description>
+        <title>Categories on 汐丶风</title>
+        <link>http://localhost:1313/hugo-note/categories/</link>
+        <description>Recent content in Categories on 汐丶风</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mllxiaoyi.github.io/Hugo-Note/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Syntax</title>
-        <link>https://mllxiaoyi.github.io/Hugo-Note/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-note/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Lua</title>
+        <link>http://localhost:1313/hugo-note/categories/lua/</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://mllxiaoyi.github.io/Hugo-Note/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://mllxiaoyi.github.io/Hugo-Note/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://mllxiaoyi.github.io/Hugo-Note/categories/themes/</guid>
+        <guid>http://localhost:1313/hugo-note/categories/lua/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://mllxiaoyi.github.io/Hugo-Note/categories/test/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:1313/hugo-note/categories/test/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://mllxiaoyi.github.io/Hugo-Note/categories/test/</guid>
-        <description>&lt;img src="https://mllxiaoyi.github.io/Hugo-Note/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:1313/hugo-note/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/hugo-note/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>http://localhost:1313/hugo-note/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-note/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Syntax</title>
+        <link>http://localhost:1313/hugo-note/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-note/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>http://localhost:1313/hugo-note/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/hugo-note/categories/themes/</guid>
+        <description></description>
         </item>
         <item>
         <title>Test With Whitespaces</title>
-        <link>https://mllxiaoyi.github.io/Hugo-Note/categories/test-with-whitespaces/</link>
+        <link>http://localhost:1313/hugo-note/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://mllxiaoyi.github.io/Hugo-Note/categories/test-with-whitespaces/</guid>
+        <guid>http://localhost:1313/hugo-note/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         
